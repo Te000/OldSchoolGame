@@ -1,5 +1,5 @@
 # OldSchoolGame
-Using C++ and DosBox for a fun class project back when I was in Mexico. How much more old school can you get than this?
+Using C++ and DosBox for a fun project back when I was in Mexico. How much more old school can you get than this?
 
 # Installing DosBox
 Follow the steps here to install: https://www.instructables.com/id/How-to-use-DOSBox-for-Beginners/
