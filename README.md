@@ -8,4 +8,5 @@ For step 4 onwards, type in your terminal: <br>
 mount c: Users/YourUserName/Desktop/pf <br>
 c: <br>
 cd tc <br>
+cd bin <br>
 game.exe <br>
